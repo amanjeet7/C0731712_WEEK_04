@@ -10,6 +10,18 @@ namespace C0731712
     {
         static void Main(string[] args)
         {
+
+
         }
+
+
+    }
+    class village
+    {
+        // Node ia an ADT
+        // what kind of data do we need in a NODE?
+        public village nextvillage;
+            public string villagename;
+            public bool isastrildehere = false;
     }
 }
